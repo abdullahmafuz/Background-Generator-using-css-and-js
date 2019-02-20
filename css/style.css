@@ -1,0 +1,28 @@
+body {
+	font: "Times New Roman", serif;
+    color: rgba(0,0,0,.7);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    top: 25%;
+	background: linear-gradient(to right,#5249ac, #119124); /* Standard syntax */
+}
+
+h1 {
+    padding: 30px;
+    font: 900 3.5em "Times New Roman", serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    width: 100%;
+}
+
+h3 {
+	font: 800 1em "Times New Roman", serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+
+}
